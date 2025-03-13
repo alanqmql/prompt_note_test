@@ -236,3 +236,15 @@ mark {
       border-color: rgba(255,255,255,0.1);
     }
   }
+
+/* 标题和作者容器 */
+.title-author {
+    flex: 1;
+}
+
+.author-info {
+    font-size: 16px;
+    color: var(--apple-gray);
+    margin: 5px 0;
+    font-style: italic;
+}
